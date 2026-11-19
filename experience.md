@@ -1,8 +1,4 @@
-markdown
----
-layout: default
-title: Experience
----
+
 
 # Experience
 
