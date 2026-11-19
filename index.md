@@ -1,9 +1,3 @@
-markdown
----
-layout: default
-title: Home
----
-
 # Jacob Kananura
 
 First-year BEng Aerospace Engineering student (with a Year in Industry) at the University of Nottingham, interested in aerodynamics, propulsion and efficient, sustainable transport.
